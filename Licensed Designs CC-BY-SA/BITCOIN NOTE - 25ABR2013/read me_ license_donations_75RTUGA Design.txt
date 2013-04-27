@@ -1,0 +1,27 @@
+The license CC-BY-SA ...I agree to give my design CC-BY-SA
+
+The license is explained here: https://creativecommons.org/licenses/by-sa/3.0/
+_____________________________________________________________
+
+              75RTUGA DESIGN - BITCOIN NOTE
+_____________________________________________________________
+
+          E-MAIL: design@pmakordeoneditora.pt
+_____________________________________________________________
+
+       ------>.psd file<------
+   
+       1st: ...install fonts before open document
+
+       The gray layers are ocult layers
+
+       ---> Do not forget:
+                           *printing--->cmyk color
+                           *internet--->rgb color
+
+...in .psd file (cmyk-20 colors), save image in .jpg file and then change to rgb color to plublish on internet!
+
+_________________________________________________________________
+
+               DONATIONS:  1NLf7pjRn3rV6AdrqwTH2QQuqkAjbezCec
+_________________________________________________________________
